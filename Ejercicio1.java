@@ -16,7 +16,7 @@ public class Ejercicio1 {
         System.out.println(x + " + " + y + " = " + suma);
         System.out.println(x + " - " + y + " = " + resta);
         System.out.println(x + " * " + y + " = " + multiplicacion);
-        System.out.println(x + " / " + y + " = " +division);
+        System.out.println(x + " / " + y + " = " + division);
 
     }
 }
